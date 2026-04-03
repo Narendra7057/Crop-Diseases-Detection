@@ -362,22 +362,7 @@ Contributions are welcome! Feel free to fork and submit pull requests.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For issues or questions:
-- Email: support@cropguard.com
-- Website: https://cropguard.com
-- GitHub Issues: Submit an issue in this repository
-
-## 🙏 Acknowledgments
-
-- Tailwind CSS for the amazing utility-first CSS framework
-- React community for building such a great library
-- All farmers and agricultural experts for their valuable feedback
-
 ---
-
 **Made with ❤️ for farmers worldwide** 🌾
 
 Happy farming! 🚜
